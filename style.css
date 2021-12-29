@@ -1,0 +1,45 @@
+nav ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color:black;
+    position:sticky ;
+    margin-top: 2%;
+    top: 0%;
+    color: white;
+    list-style-type:none;
+    
+
+}
+
+body{
+    padding: 0% 2%;
+    font-family: 'Noto Sans Display', sans-serif;
+    padding-top: 2%;
+}
+
+.body{
+    
+        padding: 0% 2%;
+        font-family: 'Noto Sans Display', sans-serif;
+    
+    
+}
+
+.profil{
+    background-color: blue;
+    
+}
+
+ul li {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.imgprof{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+}
